@@ -13,6 +13,6 @@ Copy app to local directory;
     node index.js
     
 
-Send your ip address to your friend and have fun. Just works with Firefox.
+Send your ip address to your friend and have fun. Just works with https conenction
 
 Original Version : https://medium.com/@saurssaurav33/how-to-make-a-browser-walkie-talkie-using-node-js-and-socket-io-ae024bb9b378
